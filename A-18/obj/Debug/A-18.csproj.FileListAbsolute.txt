@@ -1,0 +1,8 @@
+C:\Users\dhana\OneDrive\Documents\28july\A-18\A-18\bin\Debug\A-18.exe.config
+C:\Users\dhana\OneDrive\Documents\28july\A-18\A-18\bin\Debug\A-18.exe
+C:\Users\dhana\OneDrive\Documents\28july\A-18\A-18\bin\Debug\A-18.pdb
+C:\Users\dhana\OneDrive\Documents\28july\A-18\A-18\obj\Debug\A-18.csproj.AssemblyReference.cache
+C:\Users\dhana\OneDrive\Documents\28july\A-18\A-18\obj\Debug\A-18.csproj.SuggestedBindingRedirects.cache
+C:\Users\dhana\OneDrive\Documents\28july\A-18\A-18\obj\Debug\A-18.csproj.CoreCompileInputs.cache
+C:\Users\dhana\OneDrive\Documents\28july\A-18\A-18\obj\Debug\A-18.exe
+C:\Users\dhana\OneDrive\Documents\28july\A-18\A-18\obj\Debug\A-18.pdb
